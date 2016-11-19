@@ -8,7 +8,7 @@ bgrHeightValues = []
 
 #reads test image from file location
 # TODO: screenshot stream from display with temp images
-img = cv2.imread("./arduino-ambient/test.jpg")
+img = cv2.imread("./python/test.jpg")
 
 #pixels are selected in [x,y] format, helps keep resource usage low
 cmd = ['xrandr']
