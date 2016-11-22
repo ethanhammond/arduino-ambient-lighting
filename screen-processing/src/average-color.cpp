@@ -8,5 +8,5 @@ using namespace cv;
 using namespace std;
 
 int main() {
-  cout << "libs work\n" << endl;
+  cout << "libs work!\n" << endl;
 }
